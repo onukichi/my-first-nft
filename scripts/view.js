@@ -9,7 +9,7 @@ const contractAddress = process.env.CONTRACT_ADDRESS;
 const nftContract = new web3.eth.Contract(contract.abi, contractAddress)
 
 async function viewNFT() {
-  nftContract.methods.tokenURI(1).call().then(console.log);
+  nftContract.methods.balanceOf(PUBLIC_KEY).call().then(console.log);
 }
 
 viewNFT();
