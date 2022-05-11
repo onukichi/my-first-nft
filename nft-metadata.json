@@ -1,15 +1,15 @@
 {
   "attributes": [
     {
-      "trait_type": "Breed",
-      "value": "Maltipoo"
+      "trait_type": "Type",
+      "value": "Vegetable"
     },
     {
-      "trait_type": "Eye color",
-      "value": "Mocha"
+      "trait_type": "Color",
+      "value": "Red"
     }
   ],
-  "description": "The world's most adorable and sensitive pup.",
-  "image": "ipfs://QmWmvTJmJU3pozR9ZHFmQC2DNDwi2XJtf3QGyYiiagFSWb",
-  "name": "Ramses"
+  "description": "Red Pumpkin Art on the art island of Naoshima produced by Yayoi Kusama.",
+  "image": "ipfs://QmQH4FBsj6ScHp62DnqSKGKHKC6dnQfnnvkigYvjJVhZQP",
+  "name": "Red Pumpkin"
 }
